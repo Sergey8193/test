@@ -1,14 +1,16 @@
-# Stellar Burgers unit-tests
+# 'Stellar Burgers' unit-tests
 
-Тестирование учебного сервиса, которая помогает заказать бургер в Stellar Burgers, покрытие её юнит-тестами. 
+UNIT TESTING A TRAINING SERVICE
+[**«Stellar Burgers»**](https://stellarburgers.nomoreparties.site)
 
 ## Description
+Unit testing a training service 'Stellar Burgers'
 
 Project uses
 - Java 11
-- JUnit 4
-- Jacoco
-- Mockito
+- JUnit 4.13.2
+- Jacoco 0.8.7
+- Mockito 3.12.4
 
 ## Auto test launching
 
