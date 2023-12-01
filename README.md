@@ -1,7 +1,7 @@
 # 'Stellar Burgers' unit-tests
 
 UNIT TESTING A TRAINING SERVICE
-[**«STELLAR BURGERS**](https://stellarburgers.nomoreparties.site)
+[**«STELLAR BURGERS»**](https://stellarburgers.nomoreparties.site)
 
 
 ## Description
@@ -15,22 +15,22 @@ Project uses
 
 ## Auto test launching
 
-Clone the repository to local computer
+*Clone the repository to local computer*
  ```sh
 git clone https://git@github.com:Sergey8193/Diplom_1.git
 ```
 
-Running tests and generating JaCoCo coverage report (```mvn clean verify```)
+*Running tests and generating JaCoCo coverage report* (```mvn clean verify```)
 ```sh   
 mvn clean verify
 ```
 
-preparing JaCoCo agent (```mvn jacoco:prepare-agent```)
+*preparing JaCoCo agent* (```mvn jacoco:prepare-agent```)
 ```sh 
 mvn jacoco:prepare-agent
 ```
 
-generating JaCoCo coverage report (```mvn jacoco:report```)
+*generating JaCoCo coverage report* (```mvn jacoco:report```)
 ```sh 
 mvn jacoco:report
 ```
@@ -38,7 +38,7 @@ mvn jacoco:report
 
 ## Project Tree
 
-```sh
+```
 pom.xml
 README.md
 .gitignore
