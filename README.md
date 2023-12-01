@@ -15,7 +15,7 @@ Project uses
 
 ## Auto test launching
 
-**Clone the repository to local computer**
+**Repository cloning** (```git clone https://git@github.com:Sergey8193/Diplom_1.git```)
  ```sh
 git clone https://git@github.com:Sergey8193/Diplom_1.git
 ```
